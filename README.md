@@ -57,6 +57,8 @@ The analysis entails loading the previously scraped data and conducting a freque
 ### Visualizations
 The project includes visual representations of the data to enhance understanding and provide insights into tag popularity and its correlation with author followers. Visualizations are crucial in discerning the significance of tag combinations in relation to author popularity.
 
+---
+
 # Project 2: Machine Learning for Predicting Employee Attrition
 
 ## Introduction
