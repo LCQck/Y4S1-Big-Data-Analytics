@@ -6,10 +6,6 @@ This project focuses on leveraging Big Data analytics to predict employee attrit
 ## Data Loading and Exploration
 The data is loaded using Pandas, and preliminary data exploration is conducted to assess feature distributions and identify non-contributing features that can be removed.
 
-```python
-import pandas as pd
-import numpy as np
-
 # Load the dataset
 data = pd.read_csv('path_to_train.csv')
 data.head()
