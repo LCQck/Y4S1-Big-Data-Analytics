@@ -1,7 +1,7 @@
 # Y4S1-Big-Data-Analytics
 2 Projects in INT303 Big Data Analytics: 
 1. [Data Scraping](#project-1-data-scraping)
-2. [Machine Learning for Predicting Healthcare Employee Attrition](#project-2-machine-learning-for-predicting-healthcare-employee-attrition)
+2. [Machine Learning for Predicting Employee Attrition](#project-2-machine-learning-for-predicting-healthcare-employee-attrition)
 
 # Project 1: Data Scraping
 
