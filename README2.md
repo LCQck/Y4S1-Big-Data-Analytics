@@ -51,4 +51,4 @@ The requirements and specifications for Project 2 can be found in the [Project 2
 
 ## Source Code
 
-The complete source code for all analyses, model training, and evaluations is available in the [Jupyter Notebook][(link_to_jupyter_notebook)](https://github.com/LCQck/Y4S1-Big-Data-Analytics/blob/95d85ae62af0950c69667ca057f8233d226c536a/Project%202%20Machine%20Learning%20for%20Predicting%20Healthcare%20Employee%20Attrition/2039153_Changqing%20Lin%20Source%20Code.ipynb)https://github.com/LCQck/Y4S1-Big-Data-Analytics/blob/95d85ae62af0950c69667ca057f8233d226c536a/Project%202%20Machine%20Learning%20for%20Predicting%20Healthcare%20Employee%20Attrition/2039153_Changqing%20Lin%20Source%20Code.ipynb.
+The complete source code for all analyses, model training, and evaluations is available in the [Jupyter Notebook][(link_to_jupyter_notebook)](https://github.com/LCQck/Y4S1-Big-Data-Analytics/blob/95d85ae62af0950c69667ca057f8233d226c536a/Project%202%20Machine%20Learning%20for%20Predicting%20Healthcare%20Employee%20Attrition/2039153_Changqing%20Lin%20Source%20Code.ipynb).
