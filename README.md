@@ -6,11 +6,11 @@
 
 # Project 1: Data Scraping
 
-## Task 1: Data scraping
-
 ### Contributor
 - **Name**: Changqing Lin
 - **ID**: 2039153
+
+## Task 1: Data scraping
 
 ### Description
 This task involves a complex process of scraping quotes from `http://quotes.toscrape.com`, parsing individual quote details, author information, and additional properties from associated Goodreads pages. The script employs Python's robust libraries including `BeautifulSoup`, `pandas`, `requests`, and `re` among others, to navigate, extract, and process the data.
