@@ -4,11 +4,11 @@
 1. [Project 1: Data Scraping](#project-1-data-scraping)
 2. [Project 2: Machine Learning for Predicting Employee Attrition](#project-2-machine-learning-for-predicting-employee-attrition)
 
-# Project 1: Data Scraping
-
 ### Contributor
 - **Name**: Changqing Lin
-- **ID**: 2039153
+- **ID**: 2039153  
+
+# Project 1: Data Scraping
 
 ## Task 1: Data scraping
 
